@@ -1,3 +1,2 @@
 undetected-chromedriver
 chromedriver-autoinstaller
-opencv-python
